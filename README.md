@@ -1,2 +1,2 @@
-# bounceoff
-how to bounce two balls
+# collisionAlgorithm
+Algorithm to detect collision between two objects
